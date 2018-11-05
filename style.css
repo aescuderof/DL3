@@ -1,4 +1,21 @@
+.body {
+margin: 0px;
+
+}
+
+.fixed {
+display: block;
+text-align: center;
+background-color: red;
+height: 50px;
+position: absolute;
+width: 100%;
+
+
+}
+
  .box{
+margin-top: 100px;	
 height: 100px;
  width: 25%;
 padding: 5px;
